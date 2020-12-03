@@ -237,7 +237,7 @@ p {
     background: rgb(229,174,26  , 0.1);/*255, 168, 0 207, 213, 42 207, 244, 236   */
     z-index: 1;
     padding:60px;
-
+    margin-top:60px;
     display: flex;
     flex-direction: column;
 	align-items: center;
