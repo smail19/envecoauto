@@ -712,6 +712,9 @@ p {
       .contact-item{
       	height: 300px
       }
+	#hero .txt {
+     height: 75%;
+}
     #hero .back {
      align-items: center;
 	 width: 100%;
