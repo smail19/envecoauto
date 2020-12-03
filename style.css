@@ -234,7 +234,7 @@ p {
 	#hero .txt{
      position:relative;
     /*background-color: #5AB9DD;*/
-    background: rgb(26, 89, 229  , 0.1);/*255, 168, 0 207, 213, 42 207, 244, 236   */
+    background: rgb(229,174,26  , 0.1);/*255, 168, 0 207, 213, 42 207, 244, 236   */
     z-index: 1;
     padding:60px;
 
@@ -267,6 +267,7 @@ p {
 	animation-delay: 1s;
 }
 #hero p{
+	color:rgb(229,174,26);
 	text-align: center;
 }
 #hero h1:nth-child(1) {
